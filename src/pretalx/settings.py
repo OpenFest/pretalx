@@ -376,6 +376,12 @@ LANGUAGES_INFORMATION = {
         "official": False,
         "percentage": 97,
     },
+    "bg": {
+        "name": _("Bulgarian"),
+        "natural_name": "Български",
+        "official": False,
+        "percentage": 99,
+    },
     "el": {
         "name": _("Greek"),
         "natural_name": "Ελληνικά",
